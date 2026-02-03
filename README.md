@@ -337,7 +337,7 @@ Complete action plan delivered
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YourUsername/CleanCity.git
+git clone https://github.com/AlBaraa63/Clean-City.git
 cd CleanCity
 
 # 2. Create virtual environment
@@ -364,7 +364,7 @@ python app.py
 
 **App opens automatically at:** http://localhost:7860
 
-**Try without setup:** [Live HuggingFace Space](https://huggingface.co/spaces/YourUsername/CleanCity)
+**Try without setup:** [Live HuggingFace Space](https://huggingface.co/spaces/MCP-1st-Birthday/CleanCity)
 
 ---
 
@@ -636,9 +636,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Need Help?**
 - 📖 [Read the FAQ](#) (in app's "How It Works" tab)
-- 🐛 [Report a bug](https://github.com/YourUsername/CleanCity/issues)
-- 💡 [Request a feature](https://github.com/YourUsername/CleanCity/issues)
-- 📧 [Email us](mailto:your@email.com)
+- 🐛 [Report a bug](https://github.com/AlBaraa63/Clean-City/issues)
+- 💡 [Request a feature](https://github.com/AlBaraa63/Clean-City/issues)
+- 📧 [Email us](mailto:albaraa.olabi@example.com)
 
 **For Judges:**
 - 🎬 [Demo Video](YOUR_VIDEO_URL)
@@ -651,7 +651,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 <p align="center">
   <strong>Let's make our cities cleaner, one photo at a time. 🌍♻️</strong>
   <br/><br/>
-  <a href="https://huggingface.co/spaces/YourUsername/CleanCity">
+  <a href="https://huggingface.co/spaces/MCP-1st-Birthday/CleanCity">
     <img src="https://img.shields.io/badge/🚀-Try%20Live%20Demo-00aa66?style=for-the-badge" alt="Try Demo">
   </a>
   <a href="YOUR_VIDEO_URL">
