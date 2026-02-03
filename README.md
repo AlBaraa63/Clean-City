@@ -28,7 +28,7 @@ tags:
 
 <p align="center">
   <a href="#demo"><strong>▶️ Watch 2-Min Demo</strong></a> •
-  <a href="https://huggingface.co/spaces/MCP-1st-Birthday/CleanCity"><strong>🚀 Try Live App</strong></a> •
+  <a href="https://huggingface.co/spaces/AlBaraa63/CleanCity"><strong>🚀 Try Live App</strong></a> •
   <a href="#social"><strong>🐦 Share on Social</strong></a>
 </p>
 
@@ -140,7 +140,7 @@ User Photo → MCP Agent → Autonomous Multi-Step Workflow
 ## 🚀 **Try It in 10 Seconds**
 
 ### **Option 1: Live Demo (Recommended)**
-👉 **[Open HuggingFace Space](https://huggingface.co/spaces/MCP-1st-Birthday/CleanCity)**
+👉 **[Open HuggingFace Space](https://huggingface.co/spaces/AlBaraa63/CleanCity)**
 
 1. Click any example image
 2. Watch AI detect trash in real-time
@@ -364,7 +364,7 @@ python app.py
 
 **App opens automatically at:** http://localhost:7860
 
-**Try without setup:** [Live HuggingFace Space](https://huggingface.co/spaces/MCP-1st-Birthday/CleanCity)
+**Try without setup:** [Live HuggingFace Space](https://huggingface.co/spaces/AlBaraa63/CleanCity)
 
 ---
 
@@ -651,7 +651,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 <p align="center">
   <strong>Let's make our cities cleaner, one photo at a time. 🌍♻️</strong>
   <br/><br/>
-  <a href="https://huggingface.co/spaces/MCP-1st-Birthday/CleanCity">
+  <a href="https://huggingface.co/spaces/AlBaraa63/CleanCity">
     <img src="https://img.shields.io/badge/🚀-Try%20Live%20Demo-00aa66?style=for-the-badge" alt="Try Demo">
   </a>
   <a href="YOUR_VIDEO_URL">
